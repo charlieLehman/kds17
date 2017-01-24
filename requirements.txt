@@ -8,3 +8,15 @@ six (1.10.0)
 sklearn (0.0)
 tensorflow-gpu (0.12.1)
 wheel (0.29.0)
+Package        Version    
+-------------- -----------
+numpy          1.11.3     
+pip            9.0.1      
+protobuf       3.1.0.post1
+scikit-learn   0.18.1     
+scipy          0.18.1     
+setuptools     32.3.1     
+six            1.10.0     
+sklearn        0.0        
+tensorflow-gpu 0.12.1     
+wheel          0.29.0     
